@@ -23,6 +23,13 @@ namespace WpfRadio
         public MainWindow()
         {
             InitializeComponent();
+    
+        }
+
+        void First()
+        {
+
         }
     }
+
 }
